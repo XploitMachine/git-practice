@@ -76,9 +76,5 @@
         <members>*</members>
         <name>Profile</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>WorkflowSend</name>
-    </types>
     <version>51.0</version>
 </Package>
